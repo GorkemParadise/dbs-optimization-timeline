@@ -1,0 +1,26 @@
+Parkinson hastalarının biyomedikal ses ölçümleri
+https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
+
+
+Parkinson ile ilgili klinik verileri
+https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection
+
+
+Parkinsonlu ve sağlıklı insanların klinik ve ses ölçümleri
+https://www.kaggle.com/datasets/rohanpurohit0705/clinical-parkinson-dataset
+
+
+500 Parkinson hastanın klinikteki parkinson değerlerinin ölçümleri
+https://www.kaggle.com/datasets/aniruddhawankhede/parkinsons-disease-progression-dataset
+
+
+Parkinson'lu olan hastaların el çizimlerine göre hastalığın seviyesi
+https://www.kaggle.com/datasets/kmader/parkinsons-drawings
+
+
+Parkinson'lu olan hastaların özellikleri (yaş, eğitim, alkol, sigara, fiziksel aktivite, diyet, BMI)
+https://www.kaggle.com/datasets/rabieelkharoua/parkinsons-disease-dataset-analysis
+
+
+500+ EEG/MEG datasets
+https://eegdash.org/index.html
